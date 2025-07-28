@@ -1,0 +1,45 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  background: rgb(252, 225, 225);
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  text-decoration: none;
+}
+body {
+  background: black;
+}
+h1 {
+  color: rgb(139, 36, 236);
+  text-align: center;
+}
+.adviceText {
+  color: white;
+  text-align: center;
+}
+button {
+  display: block;
+  border-radius: 40px;
+  margin: 0 auto;
+  width: 50px;
+  height: 50px;
+  transition: ease-in-out;
+}
+button:hover {
+  background: rgb(135, 135, 238);
+}
+img {
+  display: block;
+  margin: 30px auto;
+}
+main {
+  background: rgb(58, 58, 58);
+  margin: 20px auto;
+  width: 100%;
+  max-width: 650px;
+}
+button .dice {
+  display: block;
+  margin: 0 auto;
+}
