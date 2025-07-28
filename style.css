@@ -9,6 +9,7 @@
 }
 body {
   background: black;
+  min-width: fit-content;
 }
 h1 {
   color: rgb(139, 36, 236);
@@ -18,12 +19,16 @@ h1 {
   color: white;
   text-align: center;
 }
+.adviceText img {
+  display: block;
+  margin: 30px auto;
+}
 button {
   display: block;
   border-radius: 40px;
   margin: 0 auto;
-  width: 50px;
-  height: 50px;
+  width: 70px;
+  height: 70px;
   transition: ease-in-out;
 }
 button:hover {
