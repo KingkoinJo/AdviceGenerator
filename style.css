@@ -9,17 +9,17 @@
 }
 body {
   background: black;
-  min-width: fit-content;
+  min-width: 700px;
 }
 h1 {
   color: rgb(139, 36, 236);
   text-align: center;
 }
-.adviceText {
+.adviceM {
   color: white;
   text-align: center;
 }
-.adviceText img {
+.adviceM img {
   display: block;
   margin: 30px auto;
 }
