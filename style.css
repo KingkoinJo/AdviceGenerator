@@ -9,7 +9,7 @@
 }
 body {
   background: black;
-  min-width: 700px;
+  min-width: fit-content;
 }
 h1 {
   color: rgb(139, 36, 236);
